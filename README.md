@@ -43,6 +43,7 @@ StyleSheet - Estilização dos componentes
 Clone o repositório:
 
 git clone https://github.com/RomarioSilva98/PrimeiroApp-ReactNative.git
+
 Instale as dependências:
 
 npm install
